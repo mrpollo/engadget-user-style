@@ -1,0 +1,38 @@
+#header div, #rail, #footer {
+    display: none;
+}
+#header {
+    width: 620px;
+}
+#header header.header {
+    margin-top: 25px;
+}
+#header header.header h1 {
+    font-size: 24px;
+}
+#body {
+    float: none;
+    margin: 20px auto;
+}
+article.post .post-body {
+    float: none;
+    width: 580px;
+}
+article.post h2{
+    font-size: 24px;
+}
+article.post .post-meta {
+    float: none;
+    width: 540px;
+}
+.post-body {
+    width: 590px;
+}
+.post-meta {
+    width: 620px ;
+    margin-top: 15px;
+}
+.post-meta .meta-social {
+    overflow: hidden;
+    margin-top: 15px;
+}
